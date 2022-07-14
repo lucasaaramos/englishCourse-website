@@ -29,7 +29,7 @@ header {
 }
 
 header > img {
-    height: 50px;
+    height: 30px;
     display: table-cell;
     vertical-align: middle;
 }
@@ -55,7 +55,7 @@ header > nav > a {
     text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.395);
 }
 header > nav > a:hover {
-    color: #0E2E40;
+    color: #ebf2f6;
 }
 
 
@@ -70,7 +70,7 @@ article {
 
 
 article > h1 {
-    padding-top: 100px;
+    padding-top: 70px;
     color: #0E2E40;
     font-family: var(--font-title);
     font-size: 4em;
@@ -89,7 +89,7 @@ article > p {
 
 #foto-capa {
     width: 100%;
-    height: 90%;
+    height: 130%;
     position: static;
 }
 
