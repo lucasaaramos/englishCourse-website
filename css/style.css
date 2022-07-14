@@ -159,7 +159,9 @@ label {
     margin: 15px;
     text-align: left;
     font-family: var(--font-family);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.324);
 }
+
 #message::placeholder {
     color: var(--colorD);
     text-align: center;
